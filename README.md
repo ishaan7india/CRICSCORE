@@ -27,3 +27,17 @@ The deterministic, hardware-independent TypeScript event-replay tests live in `w
 ## Network and safety defaults
 
 The AP password is the user-requested initial default and should be changed before public use. A random API token is generated on first boot, saved in LittleFS, and printed once to serial. The API is local-network only. Camera streaming is an explicit action; no recording feature exists. Cloud sync is not configured, and the UI does not claim it is.
+
+![Overview](image.png)
+
+![Live scoring](image-1.png)
+
+![Scorecard](image-2.png)
+
+![Analytics](image-3.png)
+
+![Livestream](image-4.png)
+
+![Match history](image-5.png)
+
+![Settings](image-6.png)

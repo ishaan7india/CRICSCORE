@@ -1,0 +1,7 @@
+node_modules/
+website/dist/
+.pio/
+.DS_Store
+*.elf
+*.bin
+*.map

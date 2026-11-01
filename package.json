@@ -1,0 +1,7 @@
+{
+  "name": "cricscore",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": ["website"],
+  "scripts": {"build": "npm --workspace website run build", "test:engine": "npm --workspace website run test:engine", "dev": "npm --workspace website run dev"}
+}
